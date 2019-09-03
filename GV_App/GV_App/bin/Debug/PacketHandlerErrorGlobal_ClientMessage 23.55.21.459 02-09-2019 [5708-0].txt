@@ -1,0 +1,14 @@
+Base Exception Type: System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.FrameworkElement.set_DataContext(Object value)
+   at GV_App.Controller.GVApp.DisplayValuesFromClient(List`1 ls) in D:\Visual Studio\Source\GV_App\GV_App\Controller\GVApp.cs:line 39
+   at GV_App.Controller.GVBase.HandleIncomingChatMessage(PacketHeader header, Connection connection, DataReceiveModel incomingMessage) in D:\Visual Studio\Source\GV_App\GV_App\Controller\GVBase.cs:line 137
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.FrameworkElement.set_DataContext(Object value)
+   at GV_App.Controller.GVApp.DisplayValuesFromClient(List`1 ls) in D:\Visual Studio\Source\GV_App\GV_App\Controller\GVApp.cs:line 39
+   at GV_App.Controller.GVBase.HandleIncomingChatMessage(PacketHeader header, Connection connection, DataReceiveModel incomingMessage) in D:\Visual Studio\Source\GV_App\GV_App\Controller\GVBase.cs:line 137
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
