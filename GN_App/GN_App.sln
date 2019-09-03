@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GN_App", "GN_App\GN_App.csproj", "{2392FB19-3456-43CB-A50F-EA15F2E765FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2392FB19-3456-43CB-A50F-EA15F2E765FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2392FB19-3456-43CB-A50F-EA15F2E765FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2392FB19-3456-43CB-A50F-EA15F2E765FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2392FB19-3456-43CB-A50F-EA15F2E765FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898A193A-462C-4CD8-956F-78EC1B86B5E3}
+	EndGlobalSection
+EndGlobal

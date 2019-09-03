@@ -1,0 +1,17 @@
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\TS_App.exe.config
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\TS_App.exe
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\TS_App.pdb
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\InTheHand.Net.Personal.dll
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\JSONSerializer.dll
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\NetworkCommsDotNet.dll
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\protobuf-net.dll
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\ProtobufSerializer.dll
+D:\Visual Studio\Source\TS_App\TS_App\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.Form1.resources
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.Properties.Resources.resources
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.csproj.GenerateResource.cache
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.csproj.CopyComplete
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.exe
+D:\Visual Studio\Source\TS_App\TS_App\obj\Release\TS_App.pdb
